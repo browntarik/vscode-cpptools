@@ -1,5 +1,5 @@
 name: Bug Report - 1:1 Troubleshooting (experimental)
-description: Create a bug report for IntelliSense, code editing, code navigation, code completion, code formatting, semantic colorization, etc and request the opportunity to speak with an Official Microsoft Engineer to help diagnose your issue and potentially solve it in a 15 minute call.
+description: Create a bug report and request the opportunity to speak with an Official Microsoft Engineer to help diagnose your issue and potentially solve it in a 15 minute call.
 body:
 - type: markdown
   attributes:
