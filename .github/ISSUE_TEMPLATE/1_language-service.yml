@@ -1,5 +1,5 @@
-name: Bug Report - Language Service
-description: Create a bug report for IntelliSense, code editing, code navigation, code completion, code formatting, semantic colorization, etc.
+name: Bug Report - 1:1 Troubleshooting (experimental)
+description: Create a bug report for IntelliSense, code editing, code navigation, code completion, code formatting, semantic colorization, etc and request the opportunity to speak with an Official Microsoft Engineer to help diagnose your issue and potentially solve it in a 15 minute call.
 body:
 - type: markdown
   attributes:
@@ -61,6 +61,16 @@ body:
     description: If applicable, please list other extensions installed and if the issue persists after disabling other extensions.
   validations:
     required: false
+
+- type: checkboxes
+  attributes:
+    label: Permissions Checklist
+    description: While not required, being able to record the call can help us better understand the issue and potentially share the recording with other engineers to help diagnose the issue.
+    options:
+    - label: Do you consent to recording the call to be used for internal diagnostic and development purposes?
+    - label: Do you consent to sharing the your screen with other engineers to help diagnose the issue during a video call and attest that you will not share any sensitive or private information?
+    - label: Do you understand that the call may be ended at any time if any inappropriate behavior is observed during the call?
+      required: true
 - type: textarea
   attributes:
     label: Additional context
