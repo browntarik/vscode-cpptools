@@ -1,4 +1,3 @@
-```yaml
 name: Request For Assistance
 description: Create an issue to request direct assistance with a problem you are encountering.
 body:
@@ -83,4 +82,3 @@ body:
       For a performance issue see instructions at https://github.com/microsoft/vscode-cpptools/wiki/Troubleshooting-Performance-Issues.
   validations:
     required: false
-```
