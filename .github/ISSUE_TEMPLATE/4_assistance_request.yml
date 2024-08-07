@@ -10,7 +10,7 @@ body:
       Please also review our [documentation](https://code.visualstudio.com/docs/languages/cpp) and [FAQs](https://code.visualstudio.com/docs/cpp/faq-cpp).
 
       ### 1:1 Assistance Opportunity
-      We are introducing an opportunity for our GitHub users to sit down with us in a 15-minute 1:1 session where you can visually walk us through the issue you are experiencing. The goal of these sessions is to help us diagnose issues faster. Many users face configuration and setup issues that could more easily be fixed through a real-time conversation.
+      We are introducing an opportunity for our GitHub users to sit down with us in a 15-minute 1:1 session where you can visually walk us through the issue you are experiencing. The goal of these sessions is to help us diagnose issues faster.
 
       **Note:** The goal of these sessions is not to provide a solution to every problem, but to help us diagnose the severity of issues more easily and possibly solve issues within the 15-minute timeframe.
 - type: textarea
